@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "quackkersMC.aternos.me
-",
+    "ip": "quackkersMC.aternos.me",
     "port": 17301,
     "version": "",
     "try-creative": false
